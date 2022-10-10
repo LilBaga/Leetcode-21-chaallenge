@@ -25,5 +25,5 @@ This is a self-motivated challenge on leetcode for 21 days, covering 21 topics.
 ARRAY
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| `Two Sum`        | https://leetcode.com/problems/two-sum/         | https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Two%20Sum   |
-| `Bob`         | Test2         | `Los Angeles`   |
+| `Two Sum`        | https://leetcode.com/problems/two-sum/         | `https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Two%20Sum`   |
+| `Build Array from Permutation`         | https://leetcode.com/problems/build-array-from-permutation/        | `https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Array`   |
