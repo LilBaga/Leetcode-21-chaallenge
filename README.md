@@ -24,6 +24,6 @@ This is a self-motivated challenge on leetcode for 21 days, covering 21 topics.
 
 ARRAY
 | Name     | Link      | Solution  |
-| :------------ |   :---:       | --------: |
+| :------------: |   :---:       | :--------: |
 | `Two Sum`        | https://leetcode.com/problems/two-sum/         | https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Two%20Sum   |
 | `Bob`         | Test2         | `Los Angeles`   |
