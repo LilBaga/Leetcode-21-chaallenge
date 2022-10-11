@@ -25,14 +25,14 @@ This is a self-motivated challenge on leetcode for 21 days, covering 21 topics.
 ARRAY
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| `Two Sum`        | https://leetcode.com/problems/two-sum/         | `https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Two%20Sum`   |
-| `Build Array from Permutation`         | https://leetcode.com/problems/build-array-from-permutation/        | `https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Array`   |
-|`Concatenation of Array`|https://leetcode.com/problems/concatenation-of-array/|`https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Concatenation%20of%20Array`|
+| `Two Sum`        | https://leetcode.com/problems/two-sum/         | https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Two%20Sum   |
+| `Build Array from Permutation`         | https://leetcode.com/problems/build-array-from-permutation/        | https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Array  |
+|`Concatenation of Array`|https://leetcode.com/problems/concatenation-of-array/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Concatenation%20of%20Array|
 
 LINKED LIST
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| `Decompress Run-Length Encoded List`| https://leetcode.com/problems/decompress-run-length-encoded-list/description/ | `https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Linked%20List/Decompress%20Run-Length%20Encoded%20List`|
-| `Add Two Numbers`|https://leetcode.com/problems/add-two-numbers/description/ | `https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Linked%20List`|
+| `Decompress Run-Length Encoded List`| https://leetcode.com/problems/decompress-run-length-encoded-list/description/ | https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Linked%20List/Decompress%20Run-Length%20Encoded%20List|
+| `Add Two Numbers`|https://leetcode.com/problems/add-two-numbers/description/ | https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Linked%20List|
 | ``|   | ``|
 
