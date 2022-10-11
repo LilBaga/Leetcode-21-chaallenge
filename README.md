@@ -1,4 +1,4 @@
-# Leetcode-21-chaallenge
+# Leetcode-21-challenge
 This is a self-motivated challenge on leetcode for 21 days, covering 21 topics.
 1) Array
 2) Linked List
