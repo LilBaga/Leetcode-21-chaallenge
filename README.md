@@ -34,5 +34,5 @@ LINKED LIST
 | :------------: |   :---:       | :--------: |
 | `Decompress Run-Length Encoded List`| https://leetcode.com/problems/decompress-run-length-encoded-list/description/ | https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Linked%20List/Decompress%20Run-Length%20Encoded%20List|
 | `Add Two Numbers`|https://leetcode.com/problems/add-two-numbers/description/ | https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Linked%20List|
-| `Merge Nodes in Between Zeros`| https://leetcode.com/problems/merge-nodes-in-between-zeros/description/  | ``|
+| `Merge Nodes in Between Zeros`| https://leetcode.com/problems/merge-nodes-in-between-zeros/description/  | https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Linked%20List|
 
