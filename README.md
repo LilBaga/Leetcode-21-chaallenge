@@ -39,4 +39,4 @@ LINKED LIST
 ALGORITHM FLOYD
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| ` Find the Duplicate Number`|https://leetcode.com/problems/find-the-duplicate-number/description/| https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Linked%20List/Decompress%20Run-Length%20Encoded%20List|
+| ` Find the Duplicate Number`|https://leetcode.com/problems/find-the-duplicate-number/description/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Algorithm-Floyd.py|
