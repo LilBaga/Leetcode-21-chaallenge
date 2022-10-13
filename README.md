@@ -2,8 +2,8 @@
 This is a self-motivated challenge on leetcode for 21 days, covering 21 topics.
 1) Array
 2) Linked List
-3) Stack
-4) Queue
+3) Algorithm Floyd
+4) Queue|Stack
 5) Binary Search Tree
 6) Hash Table and Map
 7) Sorting algorithms
@@ -36,3 +36,7 @@ LINKED LIST
 | `Add Two Numbers`|https://leetcode.com/problems/add-two-numbers/description/ | https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Linked%20List|
 | `Merge Nodes in Between Zeros`| https://leetcode.com/problems/merge-nodes-in-between-zeros/description/  | https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Linked%20List|
 
+ALGORITHM FLOYD
+| Name     | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+| ` Find the Duplicate Number`|https://leetcode.com/problems/find-the-duplicate-number/description/| https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Linked%20List/Decompress%20Run-Length%20Encoded%20List|
