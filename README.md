@@ -40,3 +40,13 @@ ALGORITHM FLOYD
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
 | ` Find the Duplicate Number`|https://leetcode.com/problems/find-the-duplicate-number/description/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Algorithm-Floyd.py|
+
+STACK AND QUEUE
+| Name     | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+| `Next Greater Element I`|https://leetcode.com/problems/next-greater-element-i/||
+
+STRING
+| Name     | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+| ` Make The String Great`|https://leetcode.com/problems/make-the-string-great/||
