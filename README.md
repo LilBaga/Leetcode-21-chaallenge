@@ -49,4 +49,4 @@ STACK AND QUEUE
 STRING
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| ` Make The String Great`|https://leetcode.com/problems/make-the-string-great/||
+| ` Make The String Great`|https://leetcode.com/problems/make-the-string-great/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/String/MakeTheStringGreat.py|
