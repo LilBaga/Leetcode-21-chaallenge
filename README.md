@@ -44,7 +44,7 @@ ALGORITHM FLOYD
 STACK AND QUEUE
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| `Next Greater Element I`|https://leetcode.com/problems/next-greater-element-i/||
+| `Next Greater Element I`|https://leetcode.com/problems/next-greater-element-i/|https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/StackQueue|
 
 STRING
 | Name     | Link      | Solution  |
