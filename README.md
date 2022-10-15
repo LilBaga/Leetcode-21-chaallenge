@@ -54,8 +54,8 @@ STRING
 BINARY SEARCH TREE
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-|`Binary Tree Inorder Traversal`|https://leetcode.com/problems/n-ary-tree-preorder-traversal||
-|`Binary Tree Preorder Traversal`|https://leetcode.com/problems/n-ary-tree-postorder-traversal||
-|`Binary Tree Postorder Traversal`|https://leetcode.com/problems/binary-tree-postorder-traversal/||
-|`N-ary Tree Postorder Traversal`|https://leetcode.com/problems/binary-tree-preorder-traversal||
-|`N-ary Tree Preorder Traversal`|https://leetcode.com/problems/binary-tree-inorder-traversal||
+|`Binary Tree Inorder Traversal`|https://leetcode.com/problems/n-ary-tree-preorder-traversal|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/BinaryTreeInorderTraversal.py|
+|`Binary Tree Preorder Traversal`|https://leetcode.com/problems/n-ary-tree-postorder-traversal|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/BinaryTreePostorderTraversal.py|
+|`Binary Tree Postorder Traversal`|https://leetcode.com/problems/binary-tree-postorder-traversal/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/BinaryTreePreorderTraversal.py|
+|`N-ary Tree Postorder Traversal`|https://leetcode.com/problems/binary-tree-preorder-traversal|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/N-aryTreePostorderTraversal.py|
+|`N-ary Tree Preorder Traversal`|https://leetcode.com/problems/binary-tree-inorder-traversal|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/N-aryTreePreorderTraversal.py|
