@@ -50,3 +50,12 @@ STRING
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
 | ` Make The String Great`|https://leetcode.com/problems/make-the-string-great/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/String/MakeTheStringGreat.py|
+
+BINARY SEARCH TREE
+| Name     | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+|`Binary Tree Inorder Traversal`|https://leetcode.com/problems/n-ary-tree-preorder-traversal||
+|`Binary Tree Preorder Traversal`|https://leetcode.com/problems/n-ary-tree-postorder-traversal||
+|`Binary Tree Postorder Traversal`|https://leetcode.com/problems/binary-tree-postorder-traversal/||
+|`N-ary Tree Postorder Traversal`|https://leetcode.com/problems/binary-tree-preorder-traversal||
+|`N-ary Tree Preorder Traversal`|https://leetcode.com/problems/binary-tree-inorder-traversal||
