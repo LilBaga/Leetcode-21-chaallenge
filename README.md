@@ -59,3 +59,10 @@ BINARY SEARCH TREE
 |`Binary Tree Postorder Traversal`|https://leetcode.com/problems/binary-tree-postorder-traversal/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/BinaryTreePreorderTraversal.py|
 |`N-ary Tree Postorder Traversal`|https://leetcode.com/problems/binary-tree-preorder-traversal|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/N-aryTreePostorderTraversal.py|
 |`N-ary Tree Preorder Traversal`|https://leetcode.com/problems/binary-tree-inorder-traversal|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/N-aryTreePreorderTraversal.py|
+
+HASH TABLE AND MAP
+| Name     | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+|`Happy Number`|https://leetcode.com/problems/happy-number/||
+|`Ugly Number`|https://leetcode.com/problems/ugly-number//||
+|`Median of Two sorted array`|https://leetcode.com/problems/median-of-two-sorted-arrays||
