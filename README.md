@@ -65,4 +65,4 @@ HASH TABLE AND MAP
 | :------------: |   :---:       | :--------: |
 |`Happy Number`|https://leetcode.com/problems/happy-number/||
 |`Ugly Number`|https://leetcode.com/problems/ugly-number//||
-|`Median of Two sorted array`|https://leetcode.com/problems/median-of-two-sorted-arrays||
+|`Median of Two sorted array`|https://leetcode.com/problems/median-of-two-sorted-arrays|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/MedianofTwoSortedArrays.py|
