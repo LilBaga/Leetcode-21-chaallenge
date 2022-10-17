@@ -64,5 +64,5 @@ HASH TABLE AND MAP
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
 |`Happy Number`|https://leetcode.com/problems/happy-number/||
-|`Ugly Number`|https://leetcode.com/problems/ugly-number//||
+|`Ugly Number`|https://leetcode.com/problems/ugly-number//|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Math/UglyNumber.py|
 |`Median of Two sorted array`|https://leetcode.com/problems/median-of-two-sorted-arrays|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/MedianofTwoSortedArrays.py|
