@@ -70,7 +70,7 @@ HASH TABLE AND MAP
 SORTING ALGORITHMS
 | Name     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-|`Sort Colors`|https://leetcode.com/problems/sort-colors||
-|`Sort List`|https://leetcode.com/problems/sort-list||
-|`Insertion Sort List`|https://leetcode.com/problems/insertion-sort-list||
-|`Contains Duplicate`|https://leetcode.com/problems/contains-duplicate||
+|`Sort Colors`|https://leetcode.com/problems/sort-colors|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/SortColors.py|
+|`Sort List`|https://leetcode.com/problems/sort-list|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/SortList.py|
+|`Insertion Sort List`|https://leetcode.com/problems/insertion-sort-list|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/InsertionSortList.py|
+|`Contains Duplicate`|https://leetcode.com/problems/contains-duplicate|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/ContainsDublicate.py|
