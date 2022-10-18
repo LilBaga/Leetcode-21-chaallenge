@@ -66,3 +66,11 @@ HASH TABLE AND MAP
 |`Happy Number`|https://leetcode.com/problems/happy-number/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Set/HappyNumber.py|
 |`Ugly Number`|https://leetcode.com/problems/ugly-number//|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Math/UglyNumber.py|
 |`Median of Two sorted array`|https://leetcode.com/problems/median-of-two-sorted-arrays|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/MedianofTwoSortedArrays.py|
+
+SORTING ALGORITHMS
+| Name     | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+|`Sort Colors`|https://leetcode.com/problems/sort-colors||
+|`Sort List`|https://leetcode.com/problems/sort-list||
+|`Insertion Sort List`|https://leetcode.com/problems/insertion-sort-list||
+|`Contains Duplicate`|https://leetcode.com/problems/contains-duplicate||
