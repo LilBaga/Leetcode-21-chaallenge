@@ -22,55 +22,55 @@ This is a self-motivated challenge on leetcode for 21 days, covering 21 topics.
 20) Fast&slow pointers
 21) Union Find
 
-ARRAY
-| Name     | Link      | Solution  |
+Day 1 - Array
+| LC     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| `Two Sum`        | https://leetcode.com/problems/two-sum/         | <a href="https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Two%20Sum " target="_blank">Python</a>  |
-| `Build Array from Permutation`         | https://leetcode.com/problems/build-array-from-permutation/        | https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Array  |
-|`Concatenation of Array`|https://leetcode.com/problems/concatenation-of-array/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Concatenation%20of%20Array|
+| `0001`        | <a href ="https://leetcode.com/problems/two-sum/">Two Sum</a>        | <a href="https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Two%20Sum " target="_blank">Python</a>  |
+| `1920`         | <a href="https://leetcode.com/problems/build-array-from-permutation/">Build Array From Permutation</a>        | <a href ="https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Array">Python</a> |
+|`1929`|<a href ="https://leetcode.com/problems/concatenation-of-array/">Concatenation of Array</a>|<a href="https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/Concatenation%20of%20Array">Python</a>|
 
-LINKED LIST
-| Name     | Link      | Solution  |
+Day 2 - Linked List
+| LC     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| `Decompress Run-Length Encoded List`| https://leetcode.com/problems/decompress-run-length-encoded-list/description/ | https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Linked%20List/Decompress%20Run-Length%20Encoded%20List|
-| `Add Two Numbers`|https://leetcode.com/problems/add-two-numbers/description/ | https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Linked%20List|
-| `Merge Nodes in Between Zeros`| https://leetcode.com/problems/merge-nodes-in-between-zeros/description/  | https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Linked%20List|
+| `1313`| <a href = "https://leetcode.com/problems/decompress-run-length-encoded-list/description/">Decompress Run-Length Encoded List</a> | <a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Linked%20List/Decompress%20Run-Length%20Encoded%20List">Python</a>|
+| `0002`|<a href = "https://leetcode.com/problems/add-two-numbers/description/">Add Two Numbers</a> | <a href = "https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Linked%20List">Python</a>|
+| `2181`| <a href ="https://leetcode.com/problems/merge-nodes-in-between-zeros/description/">Merge Nodes in Between Zeros</a>  | <a href="https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/Linked%20List">Python</a>|
 
-ALGORITHM FLOYD
-| Name     | Link      | Solution  |
+Day 3 - Algorithm Floyd
+| Lc     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| ` Find the Duplicate Number`|https://leetcode.com/problems/find-the-duplicate-number/description/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Algorithm-Floyd.py|
+| `0287`|<a href="https://leetcode.com/problems/find-the-duplicate-number/description/">Find the Duplicate Number</a>|<a href ="https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Algorithm-Floyd.py">Python</a>|
 
-STACK AND QUEUE
-| Name     | Link      | Solution  |
+Day 4 - Stack and Queue
+| LC     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| `Next Greater Element I`|https://leetcode.com/problems/next-greater-element-i/|https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/StackQueue|
+| `0496`|<a href = "https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/tree/main/Solutions/StackQueue">Python</a>|
 
-STRING
-| Name     | Link      | Solution  |
+Day 5 -String
+| LC     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-| ` Make The String Great`|https://leetcode.com/problems/make-the-string-great/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/String/MakeTheStringGreat.py|
+| `1544`|<a href = "https://leetcode.com/problems/make-the-string-great/"> Make The String Great</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/String/MakeTheStringGreat.py">Python</a>|
 
-BINARY SEARCH TREE
-| Name     | Link      | Solution  |
+Day 6 - BINARY SEARCH TREE
+| LC     | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-|`Binary Tree Inorder Traversal`|https://leetcode.com/problems/n-ary-tree-preorder-traversal|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/BinaryTreeInorderTraversal.py|
-|`Binary Tree Preorder Traversal`|https://leetcode.com/problems/n-ary-tree-postorder-traversal|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/BinaryTreePostorderTraversal.py|
-|`Binary Tree Postorder Traversal`|https://leetcode.com/problems/binary-tree-postorder-traversal/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/BinaryTreePreorderTraversal.py|
-|`N-ary Tree Postorder Traversal`|https://leetcode.com/problems/binary-tree-preorder-traversal|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/N-aryTreePostorderTraversal.py|
-|`N-ary Tree Preorder Traversal`|https://leetcode.com/problems/binary-tree-inorder-traversal|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/N-aryTreePreorderTraversal.py|
+|`0094`|<a href = "https://leetcode.com/problems/n-ary-tree-preorder-traversal">Binary Tree Inorder Traversal</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/BinaryTreeInorderTraversal.py">Python</a>|
+|`0144`|<a href = "https://leetcode.com/problems/n-ary-tree-postorder-traversal">Binary Tree Preorder Traversal</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/BinaryTreePostorderTraversal.py">Python</a>|
+|`0145`|<a href = "https://leetcode.com/problems/binary-tree-postorder-traversal">Binary Tree Postorder Traversal</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/BinaryTreePreorderTraversal.py">Python</a>|
+|`0589`|<a href = "https://leetcode.com/problems/binary-tree-preorder-traversal">N-ary Tree Postorder Traversal</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/N-aryTreePostorderTraversal.py">Python</a>|
+|`0590`|<a href = "https://leetcode.com/problems/binary-tree-inorder-traversal">N-ary Tree Preorder Traversal</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/BST/N-aryTreePreorderTraversal.py">Python</a>|
 
-HASH TABLE AND MAP
-| Name     | Link      | Solution  |
+Day 7 - HASH TABLE AND MAP
+| LC   | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-|`Happy Number`|https://leetcode.com/problems/happy-number/|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Set/HappyNumber.py|
-|`Ugly Number`|https://leetcode.com/problems/ugly-number//|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Math/UglyNumber.py|
-|`Median of Two sorted array`|https://leetcode.com/problems/median-of-two-sorted-arrays|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/MedianofTwoSortedArrays.py|
+|`0202`|<a href = "https://leetcode.com/problems/happy-number/">Happy Number</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Set/HappyNumber.py">Python</a>|
+|`0263`|<a href = "https://leetcode.com/problems/ugly-number//">Ugly Number</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Math/UglyNumber.py">Python</a>|
+|`0004`|<a href = "https://leetcode.com/problems/median-of-two-sorted-arrays">Median of Two sorted array</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Array/MedianofTwoSortedArrays.py">Python</a>|
 
-SORTING ALGORITHMS
-| Name     | Link      | Solution  |
+Day 8 - SORTING ALGORITHMS
+| LC   | Link      | Solution  |
 | :------------: |   :---:       | :--------: |
-|`Sort Colors`|https://leetcode.com/problems/sort-colors|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/SortColors.py|
-|`Sort List`|https://leetcode.com/problems/sort-list|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/SortList.py|
-|`Insertion Sort List`|https://leetcode.com/problems/insertion-sort-list|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/InsertionSortList.py|
-|`Contains Duplicate`|https://leetcode.com/problems/contains-duplicate|https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/ContainsDublicate.py|
+|`0075`|<a href = "https://leetcode.com/problems/sort-colors">Sort Colors</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/SortColors.py">Python</a>|
+|`0148`|<a href = "https://leetcode.com/problems/sort-list">Sort List</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/SortList.py">Python</a>|
+|`0147`|<a href = "https://leetcode.com/problems/insertion-sort-list">Insertion Sort List</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/InsertionSortList.py">Python</a>|
+|`0217`|<a href = "https://leetcode.com/problems/contains-duplicate">Contains Duplicate</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/ContainsDublicate.py">Python</a>|
