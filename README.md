@@ -74,3 +74,44 @@ Day 8 - SORTING ALGORITHMS
 |`0148`|<a href = "https://leetcode.com/problems/sort-list">Sort List</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/SortList.py">Python</a>|
 |`0147`|<a href = "https://leetcode.com/problems/insertion-sort-list">Insertion Sort List</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/InsertionSortList.py">Python</a>|
 |`0217`|<a href = "https://leetcode.com/problems/contains-duplicate">Contains Duplicate</a>|<a href = "https://github.com/LilBaga/Leetcode-21-challenge/blob/main/Solutions/Sorting/ContainsDublicate.py">Python</a>|
+
+Day 9 - GREEDY ALGORITHMS
+| LC   | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+||Coin Change||
+||Largest Odd Number in String||
+||Fibonacci Number||
+||N-th Tribonacci Number||
+||Climbing Stairs|||
+||	Min Cost Climbing Stairs||
+
+Day 10 - DP
+| LC   | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+||Valid Palindrome||
+
+Day 11 - TWO POINTERS 
+| LC   | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+||Add Two Integers||
+
+Day 12 - Backtracking 
+| LC   | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+||Same Tree||
+
+Day 13 - Graph Traversal
+| LC   | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+||	Substrings of Size Three with Distinct Characters||
+
+Day 14 - SLIDING WINDOW 
+| LC   | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+||Length of Last Word||
+
+Day 15 - Tree DFS 
+| LC   | Link      | Solution  |
+| :------------: |   :---:       | :--------: |
+||Final Value of Variable After Performing Operations||
+||	Roman to Integer||
